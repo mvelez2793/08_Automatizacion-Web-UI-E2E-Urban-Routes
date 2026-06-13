@@ -1,3 +1,7 @@
+<div align="right">
+  🌍 <strong>Español</strong> | <a href="README_en.md">English</a>
+</div>
+
 # 🚕 Automatización Web UI (E2E): Urban Routes
 
 ![Project](https://img.shields.io/badge/Project-UI_Automation-blue) ![Language](https://img.shields.io/badge/Language-Python_3-yellow) ![Framework](https://img.shields.io/badge/Framework-Selenium_WebDriver-green) ![Pattern](https://img.shields.io/badge/Pattern-POM-orange)

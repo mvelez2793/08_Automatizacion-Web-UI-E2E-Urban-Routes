@@ -59,3 +59,27 @@ def retrieve_phone_code(driver) -> str:
 
 ---
 
+### 🚀 Execution Instructions
+
+#### Prerequisites
+*   Python 3.8 or higher installed in the local environment.
+*   Google Chrome browser and its respective `ChromeDriver` configured in the `PATH`.
+*   Dependency installation:
+    ```bash
+    pip install selenium pytest
+    ```
+
+#### File Structure (POM)
+*   `main.py`: Contains the `UrbanRoutesPage` class (locators and methods) and the `TestUrbanRoutes` class (test runner).
+*   `data.py`: Configuration file containing test data (server URL, addresses, credit card).
+
+#### Test Suite Execution
+To start the automated test with detailed terminal output, execute:
+```bash
+pytest main.py -v
+```
+
+---
+
+## 🧑‍💻 Technical Profile / Perfil Técnico
+**María Auxiliadora Vélez Mendoza** - *QA Automation Engineer
